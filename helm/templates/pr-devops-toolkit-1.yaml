@@ -17,7 +17,7 @@ spec:
         image:
           tag: "0.0.5-SNAPSHOT"
         ingress:
-          host: "pr-devops-toolkit-1..nip.io"
+          host: "localhost"
       version: v3
     path: helm
     repoURL: https://github.com/vfarcic/devops-toolkit.git
