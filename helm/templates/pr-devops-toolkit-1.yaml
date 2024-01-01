@@ -20,7 +20,7 @@ spec:
           host: "localhost"
       version: v3
     path: helm
-    repoURL: https://github.com/vfarcic/devops-toolkit.git
+    repoURL: claudiugurita/saloon
     targetRevision: HEAD
   syncPolicy:
     automated:
